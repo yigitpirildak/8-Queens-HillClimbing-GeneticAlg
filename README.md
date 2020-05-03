@@ -1,2 +1,2 @@
 # 8-Queens-HillClimbing-GeneticAlg
-An old computational intelligence college project.
+As part of an old Computational Intelligence college project, 8 Queens problem is solved using Genetic Algorithms and Hill Climbing.
